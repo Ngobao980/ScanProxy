@@ -1,0 +1,8 @@
+requests
+python-socks
+PySocks
+colorama
+tqdm
+pillow
+stem
+psutil
